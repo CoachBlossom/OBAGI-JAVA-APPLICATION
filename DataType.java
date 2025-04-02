@@ -1,6 +1,6 @@
 public class DataType{
      public static void main(String[] args){
-	      //Integer type(yte,short,int,long)
+	      //Integer type(byte,short,int,long)
 		  
 		  byte age = 50;
 		  System.out.printf("Your age is %d",age);

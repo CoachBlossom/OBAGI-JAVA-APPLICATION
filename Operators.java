@@ -25,6 +25,8 @@ public class Operators{
 	   boolean isNotEqualTo = num1 != num2;
 	   
 	   //Logical Operation (&&,||,!)
+	   boolean isAndOperators = num1 > num2 && num1 >= num2;
+	   boolean is
 	   
 	   System.out.printf("The sum of the numbers is: %d%n",sum);
 	   System.out.printf("The product of the numbers is: %d%n",product);

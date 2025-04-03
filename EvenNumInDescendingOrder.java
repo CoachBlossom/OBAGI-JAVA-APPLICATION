@@ -5,7 +5,7 @@ public class EvenNumInDescendingOrder{
 		
 		while(i >= 1){
 			if(i%2 == 0){
-				System.out.printf("%d%n",i);
+				System.out.printf("%d%n",i);cd documnt
 				
 			}
 			i--;
